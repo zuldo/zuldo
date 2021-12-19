@@ -1,1 +1,1 @@
-[About me](https://write.as/zuldo/about-metadata).
+[About me](https://zuldo.github.io/meta.html).
